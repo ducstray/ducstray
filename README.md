@@ -57,7 +57,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/ducstray" target="blank">
+  <a href="https://facebook.com/wthduc" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ducstray-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/ducstray" target="blank">
