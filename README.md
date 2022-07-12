@@ -36,6 +36,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
 
 <br>
 
