@@ -57,14 +57,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://ducstray.com" target="blank">
-    <img width="90" height="90" src="images/logo-ducstray-transparent-bg-192x192.png" alt="ducstray-blog" />
-  </a>
   <a href="https://facebook.com/ducstray" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ducstray-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/ducstrayOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="ducstray-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/ducstray" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="ducstray-linkedin" />
@@ -72,7 +66,7 @@
   <a href="https://instagram.com/ducstray" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ducstray-instagram" />
   </a>
-  <a href="mailto:ducstray.official@gmail.com" target="top">
+  <a href="mailto:ducstray@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ducstray-email" />
   </a>
 </div>
