@@ -22,15 +22,15 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .ducstray-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"After a day! We've learned something new? Or become a copy of yesterday?"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">-Trungquandev Official-</div>
+        <div class="quotes-eng">"What we know today will be obsolete the next day. If we stop learning, we will stop growing!"</div>
+        <div class="quotes-vi">"Những gì chúng ta biết ngày hôm nay sẽ lỗi thời vào ngày hôm sau. Nếu chúng ta ngừng học thì chúng ta sẽ ngừng phát triển!"</div>
+        <div class="ducstray-signature">-Dorothy Billington-</div>
       </div>
 		</div>
 	</foreignObject>
